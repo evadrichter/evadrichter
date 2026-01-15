@@ -1,6 +1,6 @@
 ### Hi there, I am Eva
 
-As an investigative data researcher, I work with complex trade, financial, satellite, and political influence data to uncover environmental harm, sanctions evasion and failures of corporate accountability. I am also interested in interactive data visualisation and design as a tool for investigative storytelling and public accountability.
+As an investigative data researcher, I work with complex trade, financial, satellite, and political influence data to uncover environmental harm, sanctions evasion and failures of corporate accountability. I am also interested in interactive data visualisation as a tool for investigative storytelling and public accountability.
 
 I am currently a Data Investigator at [Global Witness](https://globalwitness.org/), where I investigate the environmental and climate impacts of the energy and mining industries. 
 
