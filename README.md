@@ -1,8 +1,10 @@
 ### Hi there, I am Eva
 
-as an investigative researcher, I work with complex trade, financial, satellite, and political influence data to expose environmental harm, sanctions evasion, and corporate accountability failures.
+As an investigative data researcher, I work with complex trade, financial, satellite, and political influence data to uncover environmental harm, sanctions evasion and failures of corporate accountability. I am also interested in interactive data visualisation and design as a tool for investigative storytelling and public accountability.
 
-I work as a Data Investigator Global Witness, where I investigate the impact of the energy and mining industries on the environment and climate change. 
+I am currently a Data Investigator at [Global Witness](https://globalwitness.org/), where I investigate the environmental and climate impacts of the energy and mining industries. 
+
+Previously, I was a Case Writer at Harvard's [Green Growth Lab](https://growthlab.hks.harvard.edu/green-growth/) and a Teaching Fellow for the “Geographic Information Systems for Public Policy” course at Harvard Kennedy School.
 
 Examples of work I have contributed to:
 
